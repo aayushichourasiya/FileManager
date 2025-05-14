@@ -1,4 +1,4 @@
-# AWS Bucket File Transfer Service
+# File Manager
 
 A Spring Boot application that allows you to upload, download, list, and delete files from an AWS S3 bucket. 
 
